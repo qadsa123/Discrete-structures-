@@ -7,8 +7,8 @@ Project of discrete structures
 
 
 
+![ds2](https://github.com/qadsa123/Discrete-structures-/assets/93070187/3c2472a5-8172-4a99-bfa4-60af5ba29a8e)
 
-<br><h1>  Question 2 output </h1>
 
 
 
